@@ -8,8 +8,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications" /v To
 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v DisableNotificationCenter /t REG_DWORD /d 1 /f
 
 echo Done! Machine-wide notifications disabled.
-echo The system will now restart to apply changes...
-pause
+echo Restarting system to apply changes...
 
-:: Force restart immediately
+:: Force restart immediately without waiting for user input
 shutdown /r /f /t 0
