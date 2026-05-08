@@ -1,1 +1,1 @@
-This is a sample exploit
+This is a text exploit
