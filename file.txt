@@ -1,13 +1,1 @@
-Quantities and Dimensions for Custom Wall Murals
-
-Mural ID | Location               | Quantity | Width (m) | Height (m) | Notes / Design Reference
---------------------------------------------------------------------------------------------
-M-001    | Entrance Wall          | 1        | 4.0       | 2.5        | Sample image: Entrance_01.jpg
-M-002    | Main Hall (North Wall) | 2        | 3.0       | 2.0        | Sample image: MainHall_North.jpg
-M-003    | Main Hall (South Wall) | 1        | 5.0       | 2.5        | Sample image: MainHall_South.jpg
-M-004    | Gallery Lounge         | 1        | 2.5       | 2.0        | Sample image: Lounge_01.jpg
-
-Notes:
-- All murals to be printed on high-quality, durable material suitable for indoor display.
-- Colors and design to match attached sample images.
-- Installation to be included in quotation.
+This is a sample exploit
